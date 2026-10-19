@@ -6181,6 +6181,7 @@
         "deleteBody": "Delete “{{name}}”? This cannot be undone.",
         "deleteOk": "Delete"
       },
+      "prunedEvaluators": "Removed evaluators this region does not offer yet: {{names}}",
       "copySuffix": " copy",
       "createdOnline": "Continuous evaluation task created",
       "createdRun": "Evaluation task started",
